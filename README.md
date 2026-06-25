@@ -1,3 +1,26 @@
+# Profile Card React App
+
+A responsive profile card application built using React.
+
+## Screenshot
+
+![Profile Card](./public/images/profile.png)
+
+## Features
+
+- React Functional Components
+- Props
+- Array Mapping
+- Conditional Rendering
+- Responsive UI
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
