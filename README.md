@@ -4,7 +4,7 @@ A responsive profile card application built using React.
 
 ## Screenshot
 
-![Profile Card](./public/images/profile.png)
+![Profile Card](./public/images/Profile.png)
 
 ## Features
 
